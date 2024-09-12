@@ -5,19 +5,15 @@ Welcome to the "Image Processing Zero to Hero" repository! This resource is dedi
 ## Notebooks Overview
 
 1. **Image Enhancement** - Techniques to improve image quality.
-2. **Fourier Transform** - Analyzing frequency components.
-3. **Segmentation** - Partitioning images into multiple segments.
-4. **Color Quantification** - Reducing the number of colors in an image.
-5. **Template Matching** - Finding parts of an image that match a template.
-6. **Filters** - Applying various filters to enhance/modify images.
-7. **Corner and Edge Detection** - Detecting various features in images.
-8. **Face Recognition** - Techniques to identify faces without using neural networks.
-9. *Additional Topics* - Expanding on other relevant techniques.
-10. *Advanced Applications* - Combining techniques for complex applications.
+2-3. **Fourier Transform** - Analyzing frequency components.
+4. **Frequency filtering, color, template matching** 
+5. **edge detection** - Reducing the number of colors in an image.
+6. **Harris Corner Detector**
+7. **Split and Merge, Segmentation** - Applying various filters to enhance/modify images.
+8. **Color quantification and search by content** - Detecting various features in images.
+9-10. **Face recognition by Eigenfaces method** - Techniques to identify faces without using neural networks.
 
-## Getting Started
 
-To get started, clone this repository using:
 
 ## Why This Approach?
 
