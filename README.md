@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/mrkd.png" alt="Image 1" width="250"/>
+</p>
+
 # Image Processing Zero to Hero
 
 Welcome to the "Image Processing Zero to Hero" repository! This resource is dedicated to exploring a wide range of image processing techniques through 9 detailed Jupyter notebooks. Each notebook is self-contained and designed to guide you from basic concepts to advanced implementations in image processing, all using plain NumPy to ensure understanding and accessibility.
