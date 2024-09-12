@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mrkd.png" alt="Image 1" width="250"/>
+  <img src="./img_mkrd.png" alt="Image 1" width="250"/>
 </p>
 
 # Image Processing Zero to Hero
